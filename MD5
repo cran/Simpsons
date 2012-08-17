@@ -1,0 +1,17 @@
+ff547ababc85108875b8e8f94239d4dd *COPYING
+772230d758f6aaa1862dcbc1ca56c7e2 *COPYRIGHTS
+23212df80d38ecc981ac6f097d53eed9 *DESCRIPTION
+60d66e32f6a256dc07ad481ad9440919 *NAMESPACE
+8de460191e92e3314aff2d4cd894aaf7 *R/Simpsons.R
+d9bda4b8c9d4e694dcca48ef5cad8594 *R/cluster.Simpson.R
+6dbea1556c3808be86c3937d85eb4799 *R/coef.Simpson.R
+90ac8f6e0f06a53e98ddf3880851c0e9 *R/plot.Simpson.R
+7a6a6baec38267b3158b0a60b4a490ea *R/print.Simpson.R
+e3c92e8fd02b0fefbd7d3b78e397a447 *R/summary.Simpson.R
+46d9bb91a49e94a7b21f96917d6c1afe *man/Simpons-package.Rd
+98fcc09d374fc7436e36ee406f2995d1 *man/Simpsons.Rd
+bfbed7c412060f7904e5d4c5a60c1ebf *man/cluster.Rd
+183ef8112d5d7f548357d704b44dafb0 *man/coef.Simpson.Rd
+3f0589dbce7514b1e49bab3bc359be98 *man/plot.Simpson.Rd
+24d2e0d3b442763b7373aed950affbf8 *man/print.Simpson.Rd
+28b92666df719037d5d728c955dbf988 *man/summary.Simpson.Rd

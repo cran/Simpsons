@@ -1,0 +1,9 @@
+# exportPattern("^[[:alpha:]]+")
+export(Simpsons)
+export(cluster)
+S3method(plot,Simpson)
+S3method(print,Simpson)
+S3method(coef,Simpson)
+S3method(summary,Simpson)
+
+
